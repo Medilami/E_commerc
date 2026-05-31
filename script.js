@@ -1,16 +1,16 @@
 const products = [
-          { id: 1, name: "Wireless Headphones", category: "electronics", price: 2999, image:  "images/headphone.jpg", description: "High-quality wireless headphones with noise cancellation and 20-hour battery life." },
-          { id: 2, name: "Smart Watch", category: "electronics", price: 4999, image: "images/smartwatch.jpg", description: "Fitness tracker with heart rate monitor, GPS, and smartphone notifications." },
-          { id: 3, name: "Men T-Shirt", category: "clothing", price: 799, image: "images/tshirt.jpg", description: "Comfortable cotton t-shirt available in multiple colors and sizes." },
-          { id: 4, name: "Men Jacket", category: "clothing", price: 2499, image: "images/jacket.jpg", description: "Stylish winter jacket with warm lining and multiple pockets." },
-          { id: 5, name: "Leather Bag", category: "accessories", price: 1999, image: "images/bag.jpg", description: "Genuine leather bag perfect for daily use or travel." },
-          { id: 6, name: "Stylish Sunglasses", category: "accessories", price: 999, image: "images/sunglasses.jpg", description: "UV protection sunglasses with premium frame material." },
-          { id: 7, name: "Laptop Backpack", category: "accessories", price: 1499, image: "images/backpack.jpg", description: "Water-resistant backpack with laptop compartment and USB charging port." },
-          { id: 8, name: "Wireless Mouse", category: "electronics", price: 899, image: "images/mouse.jpg", description: "Ergonomic wireless mouse with silent clicks and long battery life." },
-          { id: 9, name: "Women Scarf", category: "clothing", price: 499, image: "images/scarf.jpg", description: "Soft wool blend scarf perfect for cold weather." },
-          { id: 10, name: "Smartphone Stand", category: "accessories", price: 299, image: "images/stand.jpg", description: "Adjustable phone stand for desk or bedside table." }
+          { id: 1, name: "Wireless Headphones", category: "electronics", price: 2999, image:  "headphone.jpg", description: "High-quality wireless headphones with noise cancellation and 20-hour battery life." },
+          { id: 2, name: "Smart Watch", category: "electronics", price: 4999, image: "smartwatch.jpg", description: "Fitness tracker with heart rate monitor, GPS, and smartphone notifications." },
+          { id: 3, name: "Men T-Shirt", category: "clothing", price: 799, image: "tshirt.jpg", description: "Comfortable cotton t-shirt available in multiple colors and sizes." },
+          { id: 4, name: "Men Jacket", category: "clothing", price: 2499, image: "jacket.jpg", description: "Stylish winter jacket with warm lining and multiple pockets." },
+          { id: 5, name: "Leather Bag", category: "accessories", price: 1999, image: "bag.jpg", description: "Genuine leather bag perfect for daily use or travel." },
+          { id: 6, name: "Stylish Sunglasses", category: "accessories", price: 999, image: "sunglasses.jpg", description: "UV protection sunglasses with premium frame material." },
+          { id: 7, name: "Laptop Backpack", category: "accessories", price: 1499, image: "backpack.jpg", description: "Water-resistant backpack with laptop compartment and USB charging port." },
+          { id: 8, name: "Wireless Mouse", category: "electronics", price: 899, image: "mouse.jpg", description: "Ergonomic wireless mouse with silent clicks and long battery life." },
+          { id: 9, name: "Women Scarf", category: "clothing", price: 499, image: "scarf.jpg", description: "Soft wool blend scarf perfect for cold weather." },
+          { id: 10, name: "Smartphone Stand", category: "accessories", price: 299, image: "stand.jpg", description: "Adjustable phone stand for desk or bedside table." }
       ];
-      
+    
       
       let cart = [];
       
